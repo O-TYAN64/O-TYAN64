@@ -1,6 +1,5 @@
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=O-TYAN64&theme=tokyonight" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/O-TYAN64?color=blue&label=GitHub%20followers&logo=GitHub&theme=tokyonight">
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=O-TYAN64&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
