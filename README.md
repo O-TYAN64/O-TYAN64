@@ -22,6 +22,10 @@
   </tr>
 </table>
 
+## 🌱Learning Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,c,cs,cpp,java,mysql,linux,figma,azure,unity" />
+<br>
+
 <p>
   <a href="https://x.com/otyanvrchat64">Twitter</a> /
   <a href="https://o-tyan64.booth.pm">Booth</a> /
