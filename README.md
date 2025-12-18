@@ -1,16 +1,30 @@
-## Hi there 👋
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=O-TYAN64" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/O-TYAN64?color=blue&label=GitHub%20followers&logo=GitHub">
 
-<!--
-**O-TYAN64/O-TYAN64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=O-TYAN64&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-TYAN64&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
+<br clear="both" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=O-TYAN64&theme=default" />
+
+<table>
+  <tr>
+    <td>
+      <img alt="repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=O-TYAN64&theme=default" />
+    </td>
+    <td>
+      <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=O-TYAN64&theme=default" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://x.com/otyanvrchat64">Twitter</a> /
+  <a href="https://o-tyan64.booth.pm">Booth</a> /
+  <a href="https://github.com/O-TYAN64">ホームページ</a>
+</p>
