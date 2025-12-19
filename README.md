@@ -54,7 +54,7 @@
 ## 🧰 Tech Stack / Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,cs,cpp,python,js,html,css,java,mysql,linux,figma,azure" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,c,cs,cpp,python,js,html,css,java,mysql,linux,figma,azure" />
 </p>
 
 ---
