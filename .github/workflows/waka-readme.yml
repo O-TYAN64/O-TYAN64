@@ -2,48 +2,15 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-
 jobs:
-  github-metrics:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-    - uses: athul/waka-readme@master
-      with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: anmol098/waka-readme-stats@master
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: waka
-          TARGET_BRANCH: main
-          # ===== WakaTime（Coding Activity）=====
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, languages, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
-
-          # ===== 時間帯 =====
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-
-          # ===== 曜日別 =====
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # ===== 言語詳細 =====
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: bytes-size, percentage
-
-          # ===== 行数・活動量 =====
-          plugin_lines: yes
-          plugin_followup: yes
-
-          # ===== タイムライン =====
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
