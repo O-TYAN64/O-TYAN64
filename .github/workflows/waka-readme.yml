@@ -16,9 +16,6 @@ jobs:
           template: classic
           config_timezone: Asia/Tokyo
 
-          # ===== ベース =====
-          base: header, activity, community, repositories
-
           # ===== WakaTime（Coding Activity）=====
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
