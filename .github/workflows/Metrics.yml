@@ -13,8 +13,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: O-TYAN64
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics }}
+          committer_token: ${{ secrets.metrics }}
           filename: github-metrics-personal.svg
 
           base: header, activity, community, repositories, metadata
