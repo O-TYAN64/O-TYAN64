@@ -4,9 +4,6 @@
   <a href="https://github.com/O-TYAN64/O-TYAN64/"><img src="https://komarev.com/ghpvc/?username=O-TYAN64" alt="O-TYAN64" /></a>
   <a href="https://github.com/O-TYAN64"><img height="20" src="https://img.shields.io/github/followers/O-TYAN64?label=follow&logo=github&style=flat" /></a>
   <a href="https://github.com/O-TYAN64"><img height="20" src="https://img.shields.io/github/stars/O-TYAN64?logo=github&style=flat" /></a>
-  <a href="https://gitstar-ranking.com/O-TYAN64"><img height="20" src="https://img.shields.io/endpoint?label=star%20ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2FO-TYAN64%2Fshields" /></a>
-  <a href="https://user-badge.committers.top/japan/O-TYAN64"><img height="20" src="https://user-badge.committers.top/japan/O-TYAN64.svg" /></a>
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/japan.md"><img height="20" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FO-TYAN64%2FO-TYAN64%2Fmain%2Fassets%2Fgithub-followed-ranking.json&query=key&prefix=%23&label=followed%20rank&color=brightgreen&logo=github" /></a>
 </p>
 
 
