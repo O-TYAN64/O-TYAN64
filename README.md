@@ -11,11 +11,6 @@
   <sub>「作りたいものを、ちゃんと動く形にする」</sub>
 </p>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=O-TYAN64&theme=tokyonight" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/O-TYAN64?color=blue&label=Followers&logo=GitHub&theme=tokyonight">
-</p>
-
 ---
 
 ## 🧠 About Me
