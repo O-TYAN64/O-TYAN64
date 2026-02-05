@@ -30,7 +30,7 @@
 
 ## 📊 Developer Metrics
 
-![waka-readme](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/github-metrics.svg)
+![waka-readme](./github-metrics.svg)
 
 ---
 
