@@ -1,40 +1,53 @@
-name: Waka Readme
+name: Metrics
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: lowlighter/metrics@latest
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: ${{ github.repository }} # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          # you can populate email-id with secrets instead
+          token: ${{ secrets.GH_TOKEN }}
+          user: O-TYAN64
+          template: classic
+          config_timezone: Asia/Tokyo
+
+          # ===== ベース =====
+          base: header, activity, community, repositories
+
+          # ===== WakaTime（Coding Activity）=====
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
+
+          # ===== 時間帯 =====
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+
+          # ===== 曜日別 =====
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # ===== 言語詳細 =====
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+
+          # ===== 行数・活動量 =====
+          plugin_lines: yes
+          plugin_followup: yes
+
+          # ===== タイムライン =====
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
