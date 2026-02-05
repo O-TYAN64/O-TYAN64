@@ -9,13 +9,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          user: O-TYAN64
-          template: classic
-          config_timezone: Asia/Tokyo
-
+    - uses: athul/waka-readme@master
+      with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          TARGET_BRANCH: main
           # ===== WakaTime（Coding Activity）=====
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
