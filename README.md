@@ -85,71 +85,66 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C529%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.53%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 220.2 kB Used in GitHub's Storage 
+> 📦 255.2 kB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2026
+> 🏆 142 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 116 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9410 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-🌆 Daytime                13478 commits       █████████░░░░░░░░░░░░░░░░   34.45 % 
-🌃 Evening                10472 commits       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-🌙 Night                  5761 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                80 commits          ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+🌃 Evening                238 commits         ██████████████████░░░░░░░   71.26 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6255 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Tuesday                  6595 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                6418 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Thursday                 6332 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Friday                   5782 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 3671 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Sunday                   4068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Monday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Wednesday                136 commits         ██████████░░░░░░░░░░░░░░░   40.72 % 
+Thursday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Tokyo
+🕑︎ Time Zone: America/Anchorage
 
 💬 Programming Languages: 
-Other                    31 hrs 27 mins      ████████████████████░░░░░   81.26 % 
-Lua                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-TypeScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   37 hrs 52 mins      ████████████████████████░   97.83 % 
-Neovim                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 hrs 42 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
-**I Mostly Code in Lua** 
+**I Mostly Code in Python** 
 
 ```text
-Lua                      18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Shell                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Batchfile                2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -159,7 +154,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2026 19:51:49 UTC
+ Last Updated on 05/02/2026 05:13:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
