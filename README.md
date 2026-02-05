@@ -28,19 +28,9 @@
 
 ---
 
-## 📊 Waka Stats
+## 📊 Developer Metrics
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 04 February 2026 - To: 04 February 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+![waka-readme](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/github-metrics.svg)
 
 ---
 
