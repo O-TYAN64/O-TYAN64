@@ -33,6 +33,13 @@
 
 ---
 
+## 📊 Waka Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🧰 Tech Stack / Learning
 
 <p align="center">
