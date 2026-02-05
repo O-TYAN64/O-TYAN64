@@ -179,9 +179,3 @@ xychart-beta
   line [342,356,376,389,404,437,460,497,521,547,568,599,628]
 ```
 <!--END_SECTION:github_follower_history-->
-
-### This page status
-
-[![Yuta Katayama profile views](https://u8views.com/api/v1/github/profiles/132059813/views/day-week-month-total-count.svg)](https://u8views.com/github/O-TYAN64)
-
-[![Metrics](https://github.com/O-TYAN64/O-TYAN64/actions/workflows/main.yml/badge.svg)](https://github.com/O-TYAN64/O-TYAN64/actions/workflows/main.yml)
