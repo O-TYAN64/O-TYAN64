@@ -46,10 +46,10 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=8683947" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=132059813" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @O-TYAN64" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=8683947&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=132059813&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @O-TYAN64" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=132059813&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
@@ -57,10 +57,10 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=8683947&activity_type=all" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=132059813&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@O-TYAN64's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=8683947&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=132059813&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@O-TYAN64's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=132059813&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a>
 
@@ -182,6 +182,6 @@ xychart-beta
 
 ### This page status
 
-[![Yuta Katayama profile views](https://u8views.com/api/v1/github/profiles/8683947/views/day-week-month-total-count.svg)](https://u8views.com/github/O-TYAN64)
+[![Yuta Katayama profile views](https://u8views.com/api/v1/github/profiles/132059813/views/day-week-month-total-count.svg)](https://u8views.com/github/O-TYAN64)
 
 [![Metrics](https://github.com/O-TYAN64/O-TYAN64/actions/workflows/main.yml/badge.svg)](https://github.com/O-TYAN64/O-TYAN64/actions/workflows/main.yml)
