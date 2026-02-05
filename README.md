@@ -29,25 +29,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=O-TYAN64&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-TYAN64&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=O-TYAN64&theme=tokyonight" />
-</p>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=O-TYAN64&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=O-TYAN64&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+![Metrics](./github-metrics-personal.svg)
 
 ---
 
