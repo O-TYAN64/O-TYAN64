@@ -20,11 +20,6 @@
   <a href="https://qiita.com/O-TYAN64"><img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" /></a>
 </p>
 
-### Development Environment
-
-<!--START_SECTION:github_profile_bio-->
-<!--END_SECTION:github_profile_bio-->
-
 ### Recent Activities
 
 <p align="left">
