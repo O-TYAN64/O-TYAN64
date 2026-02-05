@@ -1,4 +1,4 @@
-name: Waka Time
+name: Metrics
 
 on:
   repository_dispatch:
