@@ -19,13 +19,13 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Update bio table
-        uses: yutkat/bio2markdown-table@v2
+        uses: O-TYAN64/bio2markdown-table@v2
 
       - name: Generate Follower History
-        uses: yutkat/github-follower-history@v1
+        uses: O-TYAN64/github-follower-history@v1
         with:
           country: japan
-          username: yutkat
+          username: O-TYAN64
           output-csv: /tmp/follower_history.csv
           target-file: README.md
           start-date: 2023-06-17
@@ -34,7 +34,7 @@ jobs:
       - name: Fetch followed ranking
         run: >
           curl -s https://raw.githubusercontent.com/gayanvoice/top-github-users/main/cache/japan.json |
-          jq 'to_entries | .[] | select(.value.login == "yutkat")' |
+          jq 'to_entries | .[] | select(.value.login == "O-TYAN64")' |
           jq '.key += 1' > assets/github-followed-ranking.json
 
       - name: Archive production artifacts
