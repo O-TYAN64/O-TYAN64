@@ -28,13 +28,11 @@
 
 ---
 
-<details>
-  <summary> Wakatime Analysis </summary>
+## 📊 Wakatime Analysis
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-</details>
 
 ---
 
