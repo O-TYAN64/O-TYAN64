@@ -19,10 +19,10 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Update bio table
-        uses: O-TYAN64/bio2markdown-table@v2
+        uses: yutkat/bio2markdown-table@v2
 
       - name: Generate Follower History
-        uses: O-TYAN64/github-follower-history@v1
+        uses: yutkat/github-follower-history@v1
         with:
           country: japan
           username: O-TYAN64
