@@ -21,15 +21,16 @@ jobs:
       - name: Update bio table
         uses: yutkat/bio2markdown-table@v2
 
-      - name: Generate Follower History
-        uses: yutkat/github-follower-history@v1
-        with:
-          country: japan
-          username: O-TYAN64
-          output-csv: /tmp/follower_history.csv
-          target-file: README.md
-          start-date: 2023-06-17
-          max-labels: 15
+      # ↓↓↓ Follower History 機能を削除 ↓↓↓
+      # - name: Generate Follower History
+      #   uses: yutkat/github-follower-history@v1
+      #   with:
+      #     country: japan
+      #     username: O-TYAN64
+      #     output-csv: /tmp/follower_history.csv
+      #     target-file: README.md
+      #     start-date: 2023-06-17
+      #     max-labels: 15
 
       - name: Fetch followed ranking
         run: >
