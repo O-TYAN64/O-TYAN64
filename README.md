@@ -93,13 +93,15 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.69%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2015%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126.82%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 258.2 kB Used in GitHub's Storage 
+> 📦 258.6 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 173 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -110,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                88 commits          ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-🌆 Daytime                236 commits         █████████████████░░░░░░░░   69.82 % 
-🌃 Evening                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+🌞 Morning                99 commits          ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌆 Daytime                237 commits         █████████████████░░░░░░░░   67.71 % 
+🌃 Evening                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 137 commits         ██████████░░░░░░░░░░░░░░░   40.53 % 
-Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Tuesday                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 137 commits         ██████████░░░░░░░░░░░░░░░   39.14 % 
+Friday                   71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
@@ -134,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   39 mins             ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-HTML                     38 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-YAML                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Python                   1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   38.93 % 
+HTML                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+YAML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+SQL                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 19:54:20 UTC
+ Last Updated on 06/02/2026 19:53:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
