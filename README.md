@@ -24,8 +24,6 @@
 |---:|:---|
 | **Role** | Student |
 | **Editor** | VSCode Insider |
-| **Shell** | sh |
-| **Terminal** | Tera Term |
 | **OS** | Windows, Ubuntu, Android |
 | **PC** | Let’s Note, Stealth-14Studio-A13VG, GALLERIA RT5 |
 <!--END_SECTION:github_profile_bio-->
