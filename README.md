@@ -99,9 +99,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 260.1 kB Used in GitHub's Storage 
+> 📦 255.4 kB Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2026
+> 🏆 185 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                103 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-🌆 Daytime                244 commits         █████████████████░░░░░░░░   67.59 % 
-🌃 Evening                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+🌞 Morning                104 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌆 Daytime                244 commits         █████████████████░░░░░░░░   67.40 % 
+🌃 Evening                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Thursday                 137 commits         █████████░░░░░░░░░░░░░░░░   37.95 % 
-Friday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 138 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+Friday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 
 
@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.39 % 
-HTML                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Markdown                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Python                   1 hr 44 mins        ███████████░░░░░░░░░░░░░░   42.54 % 
+HTML                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+CSS                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+SQL                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 20:01:52 UTC
+ Last Updated on 12/02/2026 19:56:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
