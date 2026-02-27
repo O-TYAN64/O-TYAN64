@@ -93,13 +93,13 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.68%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 256.0 kB Used in GitHub's Storage 
+> 📦 256.1 kB Used in GitHub's Storage 
  > 
 > 🏆 202 Contributions in the Year 2026
  > 
@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ███████████████████░░░░░░   75.14 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-HTML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   31 mins             █████████████████░░░░░░░░   69.26 % 
+HTML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 20:03:23 UTC
+ Last Updated on 27/02/2026 19:52:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
