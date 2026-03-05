@@ -93,7 +93,7 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.73%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -136,16 +136,16 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 29 mins        █████████████████████████   98.12 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   1 hr 11 mins        ████████████████████████░   97.67 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -165,7 +165,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2026 19:56:15 UTC
+ Last Updated on 05/03/2026 20:04:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
