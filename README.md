@@ -99,7 +99,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 255.8 kB Used in GitHub's Storage 
+> 📦 255.9 kB Used in GitHub's Storage 
  > 
 > 🏆 206 Contributions in the Year 2026
  > 
@@ -136,14 +136,13 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     13 mins             ██████████████████████░░░   87.40 % 
-Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +162,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2026 20:01:56 UTC
+ Last Updated on 25/03/2026 19:59:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
