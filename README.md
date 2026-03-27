@@ -93,15 +93,15 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.21%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.86%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 255.9 kB Used in GitHub's Storage 
+> 📦 256.0 kB Used in GitHub's Storage 
  > 
-> 🏆 210 Contributions in the Year 2026
+> 🏆 215 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                116 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
-🌆 Daytime                253 commits         ████████████████░░░░░░░░░   65.54 % 
-🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+🌞 Morning                120 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
+🌆 Daytime                254 commits         ████████████████░░░░░░░░░   64.96 % 
+🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Thursday                 156 commits         ██████████░░░░░░░░░░░░░░░   40.41 % 
-Friday                   73 commits          █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Thursday                 156 commits         ██████████░░░░░░░░░░░░░░░   39.90 % 
+Friday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 
 
@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       █████████████░░░░░░░░░░░░   51.73 % 
-Bash                     2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.77 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   4 hrs 2 mins        ███████████████░░░░░░░░░░   61.38 % 
+Bash                     2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  6 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 20:01:17 UTC
+ Last Updated on 27/03/2026 19:55:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
