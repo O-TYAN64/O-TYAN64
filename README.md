@@ -95,13 +95,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.97%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 255.5 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                127 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌆 Daytime                254 commits         ████████████████░░░░░░░░░   63.82 % 
-🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+🌞 Morning                138 commits         ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌆 Daytime                257 commits         ████████████████░░░░░░░░░   62.38 % 
+🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Thursday                 156 commits         ██████████░░░░░░░░░░░░░░░   39.20 % 
-Friday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 156 commits         █████████░░░░░░░░░░░░░░░░   37.86 % 
+Friday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 
@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   31 mins             ████████████████████░░░░░   79.85 % 
-Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   2 hrs 31 mins       █████████████████░░░░░░░░   67.33 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 19:54:14 UTC
+ Last Updated on 06/04/2026 20:03:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
