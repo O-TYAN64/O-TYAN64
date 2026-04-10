@@ -99,7 +99,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 255.6 kB Used in GitHub's Storage 
+> 📦 255.7 kB Used in GitHub's Storage 
  > 
 > 🏆 236 Contributions in the Year 2026
  > 
@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       █████████████████░░░░░░░░   66.04 % 
-Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   1 hr 59 mins        ████████████████░░░░░░░░░   64.63 % 
+Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 20:11:26 UTC
+ Last Updated on 10/04/2026 20:00:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
