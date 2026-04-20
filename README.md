@@ -99,7 +99,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 256.0 kB Used in GitHub's Storage 
+> 📦 256.1 kB Used in GitHub's Storage 
  > 
 > 🏆 241 Contributions in the Year 2026
  > 
@@ -136,17 +136,15 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
-Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Bash                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-C                        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   7 mins              █████████████████████░░░░   85.04 % 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +164,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 19:58:05 UTC
+ Last Updated on 20/04/2026 20:09:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
