@@ -93,15 +93,15 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130.16%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 256.1 kB Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2026
+> 🏆 251 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                143 commits         █████████░░░░░░░░░░░░░░░░   34.29 % 
-🌆 Daytime                257 commits         ███████████████░░░░░░░░░░   61.63 % 
-🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+🌞 Morning                150 commits         █████████░░░░░░░░░░░░░░░░   35.13 % 
+🌆 Daytime                260 commits         ███████████████░░░░░░░░░░   60.89 % 
+🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Thursday                 156 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
-Friday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Tuesday                  71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Thursday                 156 commits         █████████░░░░░░░░░░░░░░░░   36.53 % 
+Friday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
@@ -136,15 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████░░░░   85.04 % 
-JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   3 hrs 35 mins       ████████████████████░░░░░   80.48 % 
+Bash                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +166,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2026 20:09:06 UTC
+ Last Updated on 21/04/2026 20:13:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
