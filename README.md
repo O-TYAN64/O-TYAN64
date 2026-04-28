@@ -93,15 +93,15 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.93%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.94%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 256.4 kB Used in GitHub's Storage 
+> 📦 256.5 kB Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2026
+> 🏆 261 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -112,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                155 commits         █████████░░░░░░░░░░░░░░░░   35.80 % 
-🌆 Daytime                261 commits         ███████████████░░░░░░░░░░   60.28 % 
-🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+🌞 Morning                159 commits         █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌆 Daytime                261 commits         ███████████████░░░░░░░░░░   59.73 % 
+🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Tuesday                  71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Thursday                 158 commits         █████████░░░░░░░░░░░░░░░░   36.49 % 
-Friday                   88 commits          █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Tuesday                  75 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 158 commits         █████████░░░░░░░░░░░░░░░░   36.16 % 
+Friday                   88 commits          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 
@@ -136,18 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   6 hrs 7 mins        ████████████████░░░░░░░░░   62.10 % 
-Bash                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-HTML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   2 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Bash                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+HTML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 51 mins       █████████████████████████   99.92 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  5 hrs 38 mins       █████████████████████████   99.87 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  9 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2026 20:37:09 UTC
+ Last Updated on 28/04/2026 20:45:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
