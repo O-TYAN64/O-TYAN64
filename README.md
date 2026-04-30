@@ -136,18 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.75 % 
-Bash                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-HTML                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Python                   1 hr 29 mins        ███████████░░░░░░░░░░░░░░   44.99 % 
+HTML                     47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 38 mins       █████████████████████████   99.87 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  3 hrs 19 mins       █████████████████████████   99.78 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 20:37:57 UTC
+ Last Updated on 30/04/2026 20:37:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
