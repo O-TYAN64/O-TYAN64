@@ -93,7 +93,7 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135.29%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -136,17 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   34 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
-Text                     26 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-YAML                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Python                   57 mins             ██████████░░░░░░░░░░░░░░░   40.15 % 
+Text                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+YAML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 2 mins        ██████████████████████░░░   86.02 % 
+Claude Code              19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +167,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 20:57:05 UTC
+ Last Updated on 20/05/2026 21:16:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
