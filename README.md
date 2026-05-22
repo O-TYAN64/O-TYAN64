@@ -93,13 +93,11 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2012%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.96%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 256.5 kB Used in GitHub's Storage 
+> 📦 256.6 kB Used in GitHub's Storage 
  > 
 > 🏆 285 Contributions in the Year 2026
  > 
@@ -136,18 +134,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   57 mins             ██████████░░░░░░░░░░░░░░░   40.15 % 
-Text                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-YAML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   40.42 % 
+Text                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+HTML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        ██████████████████████░░░   86.02 % 
-Claude Code              19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+VS Code                  3 hrs 38 mins       ████████████████████░░░░░   81.93 % 
+Claude Code              48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +165,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 21:08:08 UTC
+ Last Updated on 22/05/2026 20:52:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
