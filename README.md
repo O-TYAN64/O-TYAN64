@@ -107,47 +107,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                170 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌆 Daytime                274 commits         ███████████████░░░░░░░░░░   59.44 % 
-🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Tuesday                  81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Thursday                 166 commits         █████████░░░░░░░░░░░░░░░░   36.01 % 
-Friday                   88 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   40.42 % 
-Text                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-HTML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 38 mins       ████████████████████░░░░░   81.93 % 
-Claude Code              48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-
-💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -165,7 +124,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:52:54 UTC
+ Last Updated on 23/05/2026 20:13:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
