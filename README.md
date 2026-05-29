@@ -95,11 +95,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148.12%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148.19%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 280.5 kB Used in GitHub's Storage 
+> 📦 280.6 kB Used in GitHub's Storage 
  > 
 > 🏆 285 Contributions in the Year 2026
  > 
@@ -109,6 +109,47 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                177 commits         █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌆 Daytime                275 commits         ███████████████░░░░░░░░░░   58.64 % 
+🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Tuesday                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Thursday                 170 commits         █████████░░░░░░░░░░░░░░░░   36.25 % 
+Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.46 % 
+C++                      53 mins             ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+CMake                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+C                        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 15 mins       ██████████████████░░░░░░░   74.00 % 
+Unknown Editor           47 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -126,7 +167,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 21:28:54 UTC
+ Last Updated on 29/05/2026 21:19:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
