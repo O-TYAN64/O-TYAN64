@@ -93,13 +93,13 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148.19%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 280.6 kB Used in GitHub's Storage 
+> 📦 280.7 kB Used in GitHub's Storage 
  > 
 > 🏆 285 Contributions in the Year 2026
  > 
@@ -136,18 +136,19 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████████░░░░░░░░░░░░░░   42.46 % 
-C++                      53 mins             ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-CMake                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-C                        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Python                   1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   38.96 % 
+C++                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+CMake                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+GLSL                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ██████████████████░░░░░░░   74.00 % 
-Unknown Editor           47 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+VS Code                  2 hrs 17 mins       ████████████████░░░░░░░░░   63.17 % 
+Unknown Editor           47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Claude Code              32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +168,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 20:35:52 UTC
+ Last Updated on 01/06/2026 22:19:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
