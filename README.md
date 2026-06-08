@@ -93,6 +93,8 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2047%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-162.33%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -134,18 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-C++                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Unity3D Asset            57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-GLSL                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Markdown                 2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+C#                       1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+GLSL                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Unity3D Asset            1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+C++                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 25 mins       ███████████████░░░░░░░░░░   61.61 % 
-VS Code                  2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.39 % 
+VS Code                  4 hrs 44 mins       █████████████░░░░░░░░░░░░   50.05 % 
+Claude Code              4 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.95 % 
 
 💻 Operating System: 
-Windows                  7 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -165,7 +167,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 20:42:55 UTC
+ Last Updated on 08/06/2026 21:23:50 UTC
 <!--END_SECTION:waka-->
 </details>
 
