@@ -99,7 +99,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 281.8 kB Used in GitHub's Storage 
+> 📦 281.9 kB Used in GitHub's Storage 
  > 
 > 🏆 300 Contributions in the Year 2026
  > 
@@ -136,18 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.86 % 
-C#                       1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-GLSL                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Text                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Markdown                 2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.51 % 
+C#                       1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+GLSL                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       █████████████░░░░░░░░░░░░   50.90 % 
-Claude Code              3 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.10 % 
+VS Code                  3 hrs 44 mins       ███████████████░░░░░░░░░░   61.88 % 
+Claude Code              2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
 
 💻 Operating System: 
-Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 21:10:39 UTC
+ Last Updated on 13/06/2026 20:45:26 UTC
 <!--END_SECTION:waka-->
 </details>
 
