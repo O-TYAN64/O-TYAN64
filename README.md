@@ -136,18 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.51 % 
-C#                       1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-GLSL                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   34.40 % 
+C#                       1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+GLSL                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Unity3D Asset            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       ███████████████░░░░░░░░░░   61.88 % 
-Claude Code              2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
+VS Code                  3 hrs 44 mins       ██████████████████░░░░░░░   71.50 % 
+Claude Code              1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
 
 💻 Operating System: 
-Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 20:45:26 UTC
+ Last Updated on 14/06/2026 20:45:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
