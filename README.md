@@ -95,7 +95,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.02%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.03%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,20 +112,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                193 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌆 Daytime                285 commits         ██████████████░░░░░░░░░░░   57.58 % 
+🌞 Morning                194 commits         ██████████░░░░░░░░░░░░░░░   39.11 % 
+🌆 Daytime                285 commits         ██████████████░░░░░░░░░░░   57.46 % 
 🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Tuesday                  100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Thursday                 178 commits         █████████░░░░░░░░░░░░░░░░   35.96 % 
-Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Tuesday                  100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Thursday                 178 commits         █████████░░░░░░░░░░░░░░░░   35.89 % 
+Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
@@ -136,18 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   34.40 % 
-C#                       1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
-GLSL                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Unity3D Asset            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+C#                       1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Text                     58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+GLSL                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       ██████████████████░░░░░░░   71.50 % 
-Claude Code              1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+VS Code                  3 hrs 49 mins       ████████████████████░░░░░   81.59 % 
+Claude Code              51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 
 💻 Operating System: 
-Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 20:45:11 UTC
+ Last Updated on 15/06/2026 21:59:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
