@@ -95,11 +95,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 293.2 kB Used in GitHub's Storage 
+> 📦 292.7 kB Used in GitHub's Storage 
  > 
 > 🏆 300 Contributions in the Year 2026
  > 
@@ -112,21 +112,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                195 commits         ██████████░░░░░░░░░░░░░░░   39.24 % 
-🌆 Daytime                285 commits         ██████████████░░░░░░░░░░░   57.34 % 
-🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+🌞 Morning                195 commits         ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌆 Daytime                286 commits         ██████████████░░░░░░░░░░░   57.43 % 
+🌃 Evening                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Tuesday                  100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Thursday                 179 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
-Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Monday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Tuesday                  100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 179 commits         █████████░░░░░░░░░░░░░░░░   35.94 % 
+Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Sunday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 
 
@@ -136,18 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-GLSL                     1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Text                     55 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Python                   47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-C#                       25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Python                   34 mins             ██████████░░░░░░░░░░░░░░░   40.91 % 
+GLSL                     28 mins             █████████░░░░░░░░░░░░░░░░   34.18 % 
+Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        ████████████████░░░░░░░░░   62.47 % 
-Claude Code              1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   37.53 % 
+Claude Code              1 hr 22 mins        █████████████████████████   98.92 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +166,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 20:50:57 UTC
+ Last Updated on 22/06/2026 21:37:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
