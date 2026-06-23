@@ -93,7 +93,7 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.89%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   34 mins             ██████████░░░░░░░░░░░░░░░   40.91 % 
-GLSL                     28 mins             █████████░░░░░░░░░░░░░░░░   34.18 % 
-Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   40 mins             ███████████░░░░░░░░░░░░░░   45.18 % 
+GLSL                     28 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Claude Code              1 hr 22 mins        █████████████████████████   98.92 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Claude Code              1 hr 29 mins        █████████████████████████   99.06 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 21:37:25 UTC
+ Last Updated on 23/06/2026 21:11:12 UTC
 <!--END_SECTION:waka-->
 </details>
 
