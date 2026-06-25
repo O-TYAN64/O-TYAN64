@@ -93,13 +93,13 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 292.7 kB Used in GitHub's Storage 
+> 📦 292.8 kB Used in GitHub's Storage 
  > 
 > 🏆 300 Contributions in the Year 2026
  > 
@@ -136,17 +136,15 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   40 mins             ███████████░░░░░░░░░░░░░░   45.18 % 
-GLSL                     28 mins             ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    25 mins             ███████████████████░░░░░░   77.16 % 
+Python                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
 
 🔥 Editors: 
-Claude Code              1 hr 29 mins        █████████████████████████   99.06 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Claude Code              32 mins             ████████████████████████░   97.44 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +164,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 21:08:21 UTC
+ Last Updated on 25/06/2026 21:09:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
