@@ -136,15 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████░░░░░░░░░░░░   52.48 % 
-Other                    6 mins              ████████████░░░░░░░░░░░░░   47.52 % 
+Python                   32 mins             █████████████░░░░░░░░░░░░   53.53 % 
+Other                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Batchfile                7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 
 🔥 Editors: 
-Claude Code              13 mins             ████████████████████████░   94.12 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Claude Code              48 mins             ████████████████████░░░░░   79.59 % 
+VS Code                  12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +166,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 21:05:39 UTC
+ Last Updated on 30/06/2026 21:12:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
