@@ -93,13 +93,13 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.89%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 293.0 kB Used in GitHub's Storage 
+> 📦 293.1 kB Used in GitHub's Storage 
  > 
 > 🏆 300 Contributions in the Year 2026
  > 
@@ -136,17 +136,18 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 9 mins         █████████████░░░░░░░░░░░░   50.71 % 
-Markdown                 35 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Batchfile                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Python                   36 mins             ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+C                        29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Markdown                 28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+C++                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        ████████████████░░░░░░░░░   62.11 % 
-Claude Code              51 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+VS Code                  1 hr 12 mins        ██████████████░░░░░░░░░░░   57.10 % 
+Claude Code              54 mins             ███████████░░░░░░░░░░░░░░   42.90 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +167,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 21:08:14 UTC
+ Last Updated on 07/07/2026 21:02:15 UTC
 <!--END_SECTION:waka-->
 </details>
 
