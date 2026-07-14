@@ -93,7 +93,7 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.09%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -136,15 +136,14 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 31 mins             █████████░░░░░░░░░░░░░░░░   37.13 % 
-C                        29 mins             █████████░░░░░░░░░░░░░░░░   34.61 % 
-C++                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   49 mins             ███████████████░░░░░░░░░░   58.56 % 
+Markdown                 31 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Claude Code              56 mins             █████████████████░░░░░░░░   66.66 % 
-VS Code                  28 mins             ████████░░░░░░░░░░░░░░░░░   33.34 % 
+Claude Code              56 mins             █████████████████░░░░░░░░   66.72 % 
+VS Code                  28 mins             ████████░░░░░░░░░░░░░░░░░   33.28 % 
 
 💻 Operating System: 
 Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
@@ -167,7 +166,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 20:37:07 UTC
+ Last Updated on 14/07/2026 20:35:18 UTC
 <!--END_SECTION:waka-->
 </details>
 
