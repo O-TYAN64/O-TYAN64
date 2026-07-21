@@ -136,17 +136,17 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   48 mins             ████████████████████░░░░░   80.22 % 
-SQL                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Python                   15 mins             ██████████████░░░░░░░░░░░   57.44 % 
+SQL                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🔥 Editors: 
-Claude Code              50 mins             █████████████████████░░░░   84.62 % 
-VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Claude Code              17 mins             █████████████████░░░░░░░░   66.52 % 
+VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   33.48 % 
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 20:46:33 UTC
+ Last Updated on 21/07/2026 20:41:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
