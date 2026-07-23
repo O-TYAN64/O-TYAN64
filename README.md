@@ -93,8 +93,6 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2041%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -136,17 +134,13 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   15 mins             ██████████████░░░░░░░░░░░   57.44 % 
-SQL                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              17 mins             █████████████████░░░░░░░░   66.52 % 
-VS Code                  8 mins              ████████░░░░░░░░░░░░░░░░░   33.48 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +160,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 20:35:55 UTC
+ Last Updated on 23/07/2026 20:34:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
