@@ -93,6 +93,8 @@
   <summary>Other Statics</summary>
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%205%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -160,7 +162,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:44:34 UTC
+ Last Updated on 25/07/2026 20:26:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
