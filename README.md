@@ -101,7 +101,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 311.0 kB Used in GitHub's Storage 
+> 📦 310.3 kB Used in GitHub's Storage 
  > 
 > 🏆 300 Contributions in the Year 2026
  > 
@@ -138,13 +138,14 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+C#                       3 mins              ███████████████████░░░░░░   75.94 % 
+Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -170,7 +171,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 22:18:42 UTC
+ Last Updated on 18/09/2026 21:45:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
