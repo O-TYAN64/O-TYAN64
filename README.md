@@ -138,14 +138,13 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       3 mins              ███████████████████░░░░░░   75.94 % 
-Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+C#                       3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -171,7 +170,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/O-TYAN64/O-TYAN64/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 22:21:24 UTC
+ Last Updated on 23/09/2026 22:24:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
